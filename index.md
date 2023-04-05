@@ -4,7 +4,7 @@
 
 1. [Who Am I](https://github.com/AAP127/cse110-lab-reports/blob/main/index.md#who-am-i)
 2. [My Programming Experience](https://github.com/AAP127/cse110-lab-reports/blob/main/index.md#my-programming-experience)
-3. [A Picture of My Friend's Dog](https://github.com/AAP127/cse110-lab-reports/blob/main/index.md#a-picture-of-my-friend's-dog)
+3. [A Picture of My Friend's Dog](https://github.com/AAP127/cse110-lab-reports/blob/main/index.md#a-picture-of-my-friends-dog)
 4. [Website Requirements](https://github.com/AAP127/cse110-lab-reports/blob/main/index.md#below-is-a-list-of-the-requirements-for-this-website)
 
 
@@ -65,6 +65,6 @@ This is a picture of a very good, very happy dog.
 - [x] Quoting code
 - [x] External Links
 - [x] Section links
-- [ ] Relative links 
+- [x] Relative links 
 - [x] Ordered and Unordered Lists
 - [x] Task lists
